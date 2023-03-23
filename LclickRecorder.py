@@ -57,3 +57,4 @@ while evnt:
     while dt.now().strftime('%Y/%m/%d/%H/%M')<d : sleep(20)
     replay(evnt)
     break
+print("test message")
